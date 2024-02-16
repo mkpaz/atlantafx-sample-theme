@@ -14,7 +14,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <sass.version>1.54.4</sass.version>
-        <atlantafx.version>1.0.0</atlantafx.version>
+        <atlantafx.version>2.0.1</atlantafx.version>
 
         <scss.inputDir>${project.basedir}/src</scss.inputDir>
         <css.outputDir>${project.basedir}/dist</css.outputDir>
